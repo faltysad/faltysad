@@ -6,7 +6,7 @@
 ### Hey there 👋
 #### I am Tomas. Fullstack Developer based in Prague.
 
-🌍  [faltejsek.me](https://faltejsek.me)\
+🌍  [tomasfaltejsek.cz](https://tomasfaltejsek.cz)\
 💼  [linkedin](https://www.linkedin.com/in/faltejsekt)
 
 
